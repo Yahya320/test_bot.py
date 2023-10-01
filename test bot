@@ -31,4 +31,3 @@ async def repeat(ctx, times: int, content='repeating...'):
 async def heh(ctx, count_heh = 5):
     await ctx.send("he" * count_heh)
 
-bot.run("MTE1Njg4MzMzOTg2OTk1NDA4OQ.GouWuX.hVn8aKicALt7pfgF9Dpj4NIfOM6-F63gmQjT64")
